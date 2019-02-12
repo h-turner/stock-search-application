@@ -1,0 +1,26 @@
+.jumbotron{
+ background-color: burlywood;
+ padding: 2%;
+}
+
+.container-fluid{
+ text-align: -webkit-center;
+}
+
+.display-4{
+ color: lavender;
+}
+
+#stocks{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+p{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+
